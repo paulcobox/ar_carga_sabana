@@ -1,0 +1,15 @@
+# Entorno virtual
+myenv/
+
+# Archivos temporales de Excel
+~$*.xlsx
+
+# Archivos Excel cargados
+*.xlsx
+
+# Logs
+*.log
+
+# Carpetas de backups o histórico
+20250602/
+historico_carga/
